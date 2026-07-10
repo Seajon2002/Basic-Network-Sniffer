@@ -98,10 +98,10 @@ b'.....'
 
 # Screenshot
 
-> Add your terminal screenshot here:
-## Screenshot
+> Add your terminal screenshot here:## Screenshot
 
 ![Network Sniffer Output](screenshots/Screenshot_2026-07-10_15-57-08.png)
+
 ```
 ```
 
