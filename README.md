@@ -97,7 +97,6 @@ b'.....'
 ---
 
 # Screenshot
-## Screenshot
 
 ![Network Sniffer Output](screenshots/Screenshot_2026-07-10_15-57-08.png)
 
@@ -137,9 +136,9 @@ MIT License
 
 # Author
 
-**Ektearul Seajon**
+**Ektearul Haque**
 
-Cyber Security Student
+Software Engineer | Cybersecurity Enthusiast
 
 GitHub:
 https://github.com/Seajon2002
