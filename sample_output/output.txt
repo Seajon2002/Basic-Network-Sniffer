@@ -1,0 +1,80 @@
+
+============================================================
+        Basic Network Sniffer
+============================================================
+Capturing network packets...
+Press Ctrl + C to stop.
+
+======================================================================
+Packet No       : 3
+Source IP       : 192.168.1.6
+Destination IP  : 192.168.0.1
+Protocol        : UDP
+Source Port     : 37172
+Destination Port: 53
+Packet Size     : 75 bytes
+Payload:
+b'E\x00\x00=\xc1T@\x00@\x11\xf7\x03\xc0\xa8\x01\x06\xc0\xa8\x00\x01\x914\x005\x00)\x82\x92\xb4\x9f\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x03ads\x07mozilla\x03org\x00\x00\x01\x00\x01'
+======================================================================
+                                                                                                                                             
+======================================================================
+Packet No       : 4
+Source IP       : 192.168.1.6
+Destination IP  : 192.168.0.1
+Protocol        : UDP
+Source Port     : 37172
+Destination Port: 53
+Packet Size     : 75 bytes
+Payload:
+b'E\x00\x00=\xc1U@\x00@\x11\xf7\x02\xc0\xa8\x01\x06\xc0\xa8\x00\x01\x914\x005\x00)\x82\x92\xda\x9a\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x03ads\x07mozilla\x03org\x00\x00\x1c\x00\x01'
+======================================================================
+                                                                                                                                             
+======================================================================
+Packet No       : 5
+Source IP       : 192.168.1.6
+Destination IP  : 192.168.0.1
+Protocol        : UDP
+Source Port     : 47415
+Destination Port: 53
+Packet Size     : 95 bytes
+Payload:
+b'E\x00\x00Q\xb5\x0f@\x00@\x11\x035\xc0\xa8\x01\x06\xc0\xa8\x00\x01\xb97\x005\x00=\x82\xa6\xf5\xe4\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x13content-signature-2\x03cdn'
+======================================================================
+                                                                                                                                             
+======================================================================
+Packet No       : 6
+Source IP       : 192.168.1.6
+Destination IP  : 192.168.0.1
+Protocol        : UDP
+Source Port     : 47415
+Destination Port: 53
+Packet Size     : 95 bytes
+Payload:
+b'E\x00\x00Q\xb5\x10@\x00@\x11\x034\xc0\xa8\x01\x06\xc0\xa8\x00\x01\xb97\x005\x00=\x82\xa6\xba\xdb\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x13content-signature-2\x03cdn'
+======================================================================
+                                                                                                                                             
+======================================================================
+Packet No       : 7
+Source IP       : 192.168.1.6
+Destination IP  : 192.168.0.1
+Protocol        : UDP
+Source Port     : 46496
+Destination Port: 53
+Packet Size     : 97 bytes
+Payload:
+b'E\x00\x00S\\J@\x00@\x11[\xf8\xc0\xa8\x01\x06\xc0\xa8\x00\x01\xb5\xa0\x005\x00?\x82\xa8\x19\\\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x07firefox\x08settings\x08servic'
+======================================================================
+                                                                                                                                             
+======================================================================
+Packet No       : 8
+Source IP       : 192.168.1.6
+Destination IP  : 192.168.0.1
+Protocol        : UDP
+Source Port     : 46496
+Destination Port: 53
+Packet Size     : 97 bytes
+Payload:
+b'E\x00\x00S\\K@\x00@\x11[\xf7\xc0\xa8\x01\x06\xc0\xa8\x00\x01\xb5\xa0\x005\x00?\x82\xa8"]\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x07firefox\x08settings\x08servic'
+======================================================================
+                                                                                                                                             
+======================================================================
