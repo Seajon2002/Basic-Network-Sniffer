@@ -1,26 +1,32 @@
 # 🛡️ Basic Network Sniffer
 
-A Python-based Basic Network Sniffer developed using **Scapy**. This project captures live network packets and displays useful packet information such as source IP, destination IP, protocol type, and payload preview.
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Scapy](https://img.shields.io/badge/Scapy-Network%20Library-orange)
+![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-red)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-This project was developed as part of a **Cyber Security Internship** to understand how data flows through a network and how packets are analyzed.
+A Python-based Network Packet Sniffer developed using **Scapy**. The application captures live network traffic and displays useful packet information such as source and destination IP addresses, transport protocol, and payload preview.
+
+This project was developed as part of a Cyber Security Internship to gain hands-on experience with packet capturing and network protocol analysis.
 
 ---
 
-## Features
+# Features
 
-- Capture live network traffic
+- Capture live network packets
 - Detect TCP packets
 - Detect UDP packets
 - Detect ICMP packets
-- Display Source IP Address
-- Display Destination IP Address
-- Display Protocol Type
+- Display Source IP
+- Display Destination IP
+- Display Protocol
 - Display Packet Payload
-- Lightweight and Beginner Friendly
+- Beginner Friendly
+- Lightweight
 
 ---
 
-## Technologies Used
+# Technologies Used
 
 - Python 3
 - Scapy
@@ -29,27 +35,7 @@ This project was developed as part of a **Cyber Security Internship** to underst
 
 ---
 
-## Project Structure
-
-```
-Basic-Network-Sniffer/
-
-├── main.py
-├── packet_sniffer.py
-├── packet_analyzer.py
-├── utils.py
-├── requirements.txt
-├── README.md
-├── .gitignore
-├── screenshots/
-│   └── Screenshot.png
-└── sample_output/
-    └── output.txt
-```
-
----
-
-## Installation
+# Installation
 
 Clone the repository
 
@@ -57,19 +43,19 @@ Clone the repository
 git clone https://github.com/Seajon2002/Basic-Network-Sniffer.git
 ```
 
-Go to the project directory
+Go to the project
 
 ```bash
 cd Basic-Network-Sniffer
 ```
 
-Install dependencies
+Install requirements
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Run the project
+Run
 
 ```bash
 sudo python3 main.py
@@ -77,50 +63,81 @@ sudo python3 main.py
 
 ---
 
-## Sample Output
+# Project Structure
+
+```
+Basic-Network-Sniffer/
+
+├── main.py
+├── packet_sniffer.py
+├── packet_analyzer.py
+├── requirements.txt
+├── README.md
+├── screenshots/
+└── sample_output/
+```
+
+---
+
+# Sample Output
 
 ```
 Packet Number : 1
 
-Source IP      : 192.168.1.5
+Source IP      : 192.168.1.6
 
 Destination IP : 192.168.0.1
 
 Protocol        : TCP
 
 Payload Preview:
-b'...'
+b'.....'
 ```
 
 ---
 
-## Learning Objectives
+# Screenshot
 
-- Understand Packet Sniffing
-- Learn TCP/IP Protocol Analysis
-- Analyze Network Traffic
-- Work with Scapy Library
-- Understand Packet Structures
+> Add your terminal screenshot here:
+
+```
+```
 
 ---
 
-## Future Improvements
+# Learning Outcomes
 
-- Save packets as PCAP
+- Network Packet Analysis
+- TCP/IP Fundamentals
+- Packet Sniffing
+- Scapy
+- Kali Linux
+- Cyber Security Basics
+
+---
+
+# Future Improvements
+
+- Save packets into PCAP
 - Export packets to CSV
-- Packet filtering
-- Protocol statistics
-- Command-line arguments
-- Real-time dashboard
+- Packet Filtering
+- Protocol Statistics
+- CLI Arguments
+- Real-time Dashboard
 
 ---
 
-## Author
+# License
 
-**Ektearul Haque**
+MIT License
 
-Cyber Security Enthusiast
+---
+
+# Author
+
+**Ektearul Seajon**
+
+Cyber Security Student
 
 GitHub:
 https://github.com/Seajon2002
-
