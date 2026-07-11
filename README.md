@@ -7,8 +7,6 @@
 
 A Python-based Network Packet Sniffer developed using **Scapy**. The application captures live network traffic and displays useful packet information such as source and destination IP addresses, transport protocol, and payload preview.
 
-This project was developed as part of a Cyber Security Internship to gain hands-on experience with packet capturing and network protocol analysis.
-
 ---
 
 # Features
